@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gazzturner/PercentageCalculator/static/css/main.d1b05096.chunk.css",
+    "main.js": "/gazzturner/PercentageCalculator/static/js/main.e5b1f4e7.chunk.js",
+    "main.js.map": "/gazzturner/PercentageCalculator/static/js/main.e5b1f4e7.chunk.js.map",
+    "runtime-main.js": "/gazzturner/PercentageCalculator/static/js/runtime-main.64fc8436.js",
+    "runtime-main.js.map": "/gazzturner/PercentageCalculator/static/js/runtime-main.64fc8436.js.map",
+    "static/js/2.9f0cc851.chunk.js": "/gazzturner/PercentageCalculator/static/js/2.9f0cc851.chunk.js",
+    "static/js/2.9f0cc851.chunk.js.map": "/gazzturner/PercentageCalculator/static/js/2.9f0cc851.chunk.js.map",
+    "index.html": "/gazzturner/PercentageCalculator/index.html",
+    "precache-manifest.37c224df403075447748e013c19dd213.js": "/gazzturner/PercentageCalculator/precache-manifest.37c224df403075447748e013c19dd213.js",
+    "service-worker.js": "/gazzturner/PercentageCalculator/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/gazzturner/PercentageCalculator/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9f0cc851.chunk.js.LICENSE.txt": "/gazzturner/PercentageCalculator/static/js/2.9f0cc851.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gazzturner/PercentageCalculator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64fc8436.js",
+    "static/js/2.9f0cc851.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e5b1f4e7.chunk.js"
+  ]
+}
