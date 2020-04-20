@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/PercentageCalculator/static/css/main.d1b05096.chunk.css",
-    "main.js": "/PercentageCalculator/static/js/main.38786b40.chunk.js",
-    "main.js.map": "/PercentageCalculator/static/js/main.38786b40.chunk.js.map",
+    "main.js": "/PercentageCalculator/static/js/main.1862874a.chunk.js",
+    "main.js.map": "/PercentageCalculator/static/js/main.1862874a.chunk.js.map",
     "runtime-main.js": "/PercentageCalculator/static/js/runtime-main.9aa6c162.js",
     "runtime-main.js.map": "/PercentageCalculator/static/js/runtime-main.9aa6c162.js.map",
-    "static/js/2.9f0cc851.chunk.js": "/PercentageCalculator/static/js/2.9f0cc851.chunk.js",
-    "static/js/2.9f0cc851.chunk.js.map": "/PercentageCalculator/static/js/2.9f0cc851.chunk.js.map",
+    "static/js/2.8b80bf39.chunk.js": "/PercentageCalculator/static/js/2.8b80bf39.chunk.js",
+    "static/js/2.8b80bf39.chunk.js.map": "/PercentageCalculator/static/js/2.8b80bf39.chunk.js.map",
     "index.html": "/PercentageCalculator/index.html",
-    "precache-manifest.40f5445b3ec3d958d2235838f3abb945.js": "/PercentageCalculator/precache-manifest.40f5445b3ec3d958d2235838f3abb945.js",
+    "precache-manifest.4bbc4f0154ab33ec423da0073ce52609.js": "/PercentageCalculator/precache-manifest.4bbc4f0154ab33ec423da0073ce52609.js",
     "service-worker.js": "/PercentageCalculator/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/PercentageCalculator/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.9f0cc851.chunk.js.LICENSE.txt": "/PercentageCalculator/static/js/2.9f0cc851.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/PercentageCalculator/static/media/logo.5d5d9eef.svg"
+    "static/js/2.8b80bf39.chunk.js.LICENSE.txt": "/PercentageCalculator/static/js/2.8b80bf39.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9aa6c162.js",
-    "static/js/2.9f0cc851.chunk.js",
+    "static/js/2.8b80bf39.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.38786b40.chunk.js"
+    "static/js/main.1862874a.chunk.js"
   ]
 }
