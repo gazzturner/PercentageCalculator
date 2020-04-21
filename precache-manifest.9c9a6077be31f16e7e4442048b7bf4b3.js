@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18adf8cf4b510926d5c37a383401488b",
+    "revision": "1f776e5692b67111db98c5ee6e8a3421",
     "url": "/PercentageCalculator/index.html"
   },
   {
-    "revision": "5f5435d46c89db126f45",
+    "revision": "f07a8bba254b1c6af85d",
     "url": "/PercentageCalculator/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PercentageCalculator/static/js/2.8b80bf39.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f5435d46c89db126f45",
-    "url": "/PercentageCalculator/static/js/main.39f4cbb3.chunk.js"
+    "revision": "f07a8bba254b1c6af85d",
+    "url": "/PercentageCalculator/static/js/main.bba5044c.chunk.js"
   },
   {
     "revision": "f898b727fcadca4d1f06",
