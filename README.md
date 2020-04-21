@@ -1,3 +1,5 @@
+This is a basic percentage calculator to work out damages to client based on total damages, percentage taken and any additional payments.  The maths is total damages - percentage taken and then any additional payments taken on top of that.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
