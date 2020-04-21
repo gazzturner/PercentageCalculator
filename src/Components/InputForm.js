@@ -58,9 +58,20 @@ constructor(props) {
 
         return(
             <div>
-                Enter Total Damages: £<input value={this.state.total} onChange={this.setTotal} /><br/>
-                Enter Percentage Taken: <input value={this.state.percentageTaken} onChange={this.setPercentage} />%<br/>
-                Add An Additional Payment: <input value={this.state.newAdditionalPayment} onChange={this.setAdditionalPayment}/> <button onClick={this.addAdditionalPayment}>+</button><br />
+                Enter Total Damages: £<input 
+                  value={this.state.total} 
+                  onChange={this.setTotal} 
+                  type="number"/><br/>
+                Enter Percentage Taken: <input 
+                  value={this.state.percentageTaken} 
+                  onChange={this.setPercentage} 
+                  type="number"
+                  min="0"
+                  max="100"/>%<br/>
+                Add An Additional Payment: <input 
+                  value={this.state.newAdditionalPayment} 
+                  onChange={this.setAdditionalPayment}
+                  type="number"/> <button onClick={this.addAdditionalPayment}>+</button><br />
                 
                 Additional Payments: {additionalPayments}<br />
                 <button onClick={this.generatePercentage}>Generate</button><br />
