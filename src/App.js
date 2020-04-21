@@ -11,7 +11,10 @@ export default class App extends Component {
 
   render() {
     return (
-     <InputForm></InputForm>
+      <>
+        <h3>This is for my own purposes and should not be used for actual cases</h3>
+        <InputForm></InputForm>
+      </>
     );
   }
 }
