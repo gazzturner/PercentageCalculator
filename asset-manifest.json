@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PercentageCalculator/static/css/main.d1b05096.chunk.css",
-    "main.js": "/PercentageCalculator/static/js/main.1862874a.chunk.js",
-    "main.js.map": "/PercentageCalculator/static/js/main.1862874a.chunk.js.map",
+    "main.js": "/PercentageCalculator/static/js/main.39f4cbb3.chunk.js",
+    "main.js.map": "/PercentageCalculator/static/js/main.39f4cbb3.chunk.js.map",
     "runtime-main.js": "/PercentageCalculator/static/js/runtime-main.9aa6c162.js",
     "runtime-main.js.map": "/PercentageCalculator/static/js/runtime-main.9aa6c162.js.map",
     "static/js/2.8b80bf39.chunk.js": "/PercentageCalculator/static/js/2.8b80bf39.chunk.js",
     "static/js/2.8b80bf39.chunk.js.map": "/PercentageCalculator/static/js/2.8b80bf39.chunk.js.map",
     "index.html": "/PercentageCalculator/index.html",
-    "precache-manifest.4bbc4f0154ab33ec423da0073ce52609.js": "/PercentageCalculator/precache-manifest.4bbc4f0154ab33ec423da0073ce52609.js",
+    "precache-manifest.3db24d970b5adbc7deba7047e13e3805.js": "/PercentageCalculator/precache-manifest.3db24d970b5adbc7deba7047e13e3805.js",
     "service-worker.js": "/PercentageCalculator/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/PercentageCalculator/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.8b80bf39.chunk.js.LICENSE.txt": "/PercentageCalculator/static/js/2.8b80bf39.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9aa6c162.js",
     "static/js/2.8b80bf39.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.1862874a.chunk.js"
+    "static/js/main.39f4cbb3.chunk.js"
   ]
 }
