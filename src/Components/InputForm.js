@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import ResultForm from './ResultForm'
 import AdditionalPayments from './AdditionalPayments';
+import './InputForm.css';
 
 export default class InputForm extends Component {
 constructor(props) {
@@ -71,13 +72,21 @@ constructor(props) {
                 Add An Additional Payment: <input 
                   value={this.state.newAdditionalPayment} 
                   onChange={this.setAdditionalPayment}
-                  type="number"/> <button onClick={this.addAdditionalPayment}>+</button><br />
+                  type="number"/> 
+                <button 
+                  onClick={this.addAdditionalPayment}
+                  className="button"
+                >+</button><br />
                 
                 Additional Payments: {additionalPayments}<br />
-                <button onClick={this.generatePercentage}>Generate</button><br />
+                <button 
+                  onClick={this.generatePercentage}
+                  className="button"
+                >Generate</button><br />
+
                 <ResultForm finalAmount={this.state.amountForClient} />
 
-                <button onClick={this.resetForm}>Reset Form</button>
+                <button className="resetButton" onClick={this.resetForm}>Reset Form</button>
             </div>
         );
     };
